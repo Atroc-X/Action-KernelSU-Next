@@ -21,7 +21,7 @@ on:
       KERNEL_VERSION:
         description: "内核版本"
         required: true
-        default: '5.15.149'
+        default: '5.15'
 
 jobs:
   build:
